@@ -90,7 +90,7 @@ Built an interactive dashboard to communicate key performance indicators, revenu
 
 ## Dashboard
 
-![Customer Sales Dashboard](screenshots/dashboard.png)
+<img width="1024" height="592" alt="Customer_Purchase_Behavior_Analysis_BI" src="https://github.com/user-attachments/assets/c0dd2afb-52a0-4d74-babf-18c150437df8" />
 
 ## Executive Summary
 
